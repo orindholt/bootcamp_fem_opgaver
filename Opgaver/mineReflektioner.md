@@ -6,4 +6,9 @@ Opgaven var nem nok og tænkte med det samme på at bruge en variabel der tælte
 
 Opgaven var ikke svær at forstår og var hurtigt lavet. Ekstra opgaven var også simpel og gav mening. Jeg havde det dog svært med var at finde på reflektioner.
 
+## Nivaeu 1 - Opgave 03
+
+Den første del af opgaven var hurtigt løst. Efter den oprindelige opgave var lavet, lavede jeg derefter ekstra-opgaverne. Den første ekstra opgave var sådan det meget nem og hurtigt overstået. Den sidste ekstra opgave brugte jeg lidt mere tid end jeg kunne tænke mig. Jeg forstod simpelthen ikke hvorfor den sagde at element var undefined indtil det gik op for mig, at man selvfølgelig ikke kan sætte en css regel på flere elementer af gangen uden at bruge et loop. Jeg har simpelthen brugt for meget JQuery.
+
+
 
