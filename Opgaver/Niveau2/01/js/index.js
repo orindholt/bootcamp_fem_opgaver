@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
     const buttonContainer = document.querySelector("#buttons");
-    const buttons = document.querySelectorAll("button");
+    const buttons = document.querySelectorAll("#buttons > *");
     
     buttonContainer.addEventListener("click", (event)=>{
         if(event.target.localName == "button"){
