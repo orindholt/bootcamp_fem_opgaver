@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1em;
+}
+
+#container, .btn-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+button {
+    padding: 0 1em;
+}
+
+#total {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.25em;
+    padding-top: 1em;
+}
