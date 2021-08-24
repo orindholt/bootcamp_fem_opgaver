@@ -4,9 +4,9 @@ document.addEventListener("DOMContentLoaded", () => {
     buttons.forEach(btnElement =>{
         btnElement.addEventListener("click", (event)=>{
             for(let i = 0; i<buttons.length; i++){
-                buttons[i].disabled = true;
+                buttons[i].style.backgroundColor = "#eee";
             }
-            event.target.disabled = false;
+            event.target.style.backgroundColor = "#7f7";
         });
 
     });
