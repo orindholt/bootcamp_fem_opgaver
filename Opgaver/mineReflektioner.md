@@ -14,5 +14,6 @@ Den første del af opgaven var hurtigt løst. Efter den oprindelige opgave var l
 
 Denne opgave var i realiteten også en hurtigt lavet opgave. Men jeg kunne simpelthen ikke forstår hvorfor man kun kunne klikke på en af knapperne en enkelt gang. Men så gik det op for mig at knapperne selvfølgelig mister deres funktionalitet efter at de er blevet disabled. Hvis man gjorde det samme bare med opacity ville det virke hvis man klikkede på andre knapper efter at have klikket på en. (rigtigt dårligt forklaret)
 
+## Nivaeu 2 - Opgave 02
 
-
+Svær opgave. Det var nyt at arbejde så meget med objekter og createElement som denne opgave krævede. Super god udfordring. Jeg mangler stadig at lave total funktionen helt færdigt.
